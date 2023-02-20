@@ -1,5 +1,6 @@
 # LandingPageDescodificadas
 Projeto Descodificadas OnBoading ONE Landing Page
+Esta é a página do projeto OnBoading ONE Landing Page de ABenatti
 O desafio será fazer um projeto em HTML, CSS e JavaScript de uma landpage (site) de um tema de sua preferência, com itens obrigatórios e layout definido.
 
 O layout escolhido como modelo é o Evento (Event) do Google Sites e você deve se inspirar nele para desenvolver o seu site.
