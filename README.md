@@ -5,7 +5,6 @@ O desafio será fazer um projeto em HTML, CSS e JavaScript de uma landpage (site
 O layout escolhido como modelo é o Evento (Event) do Google Sites e você deve se inspirar nele para desenvolver o seu site.
 
  Atividades a serem desenvolvidas:
-
 Escolha um tema de sua preferência para o site.
 Com o tema definido, o seu projeto deverá ter os seguintes itens obrigatórios:
 Logo
@@ -18,6 +17,5 @@ Vídeo
 Mapa de localização
 Formulário para coletar cadastro
 Rodapé com a frase criado por "seunome"
-
 
 Você poderá adicionar outros itens se desejar.
