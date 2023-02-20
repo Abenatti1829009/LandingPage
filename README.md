@@ -20,3 +20,5 @@ O layout escolhido como modelo é o Evento (Event) do Google Sites e você deve 
 * Rodapé com a frase criado por "seunome"
 
 ### Você poderá adicionar outros itens se desejar.
+
+https://sites.google.com/view/dogmanu/p%C3%A1gina-inicial
